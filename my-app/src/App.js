@@ -34,7 +34,7 @@ function App() {
                             Check out my portfolio
                         </a>
                     </h1>
-                    <a href="https://baanish-portfolio-deno.deno.dev/" className="text-3xl text-blue-500 hover:text-blue-700">
+                    <a href="https://baanish-portfolio-deno.deno.dev/" className="text-3xl text-blue-500 hover:text-blue-700 hover:underline">
                         baanish-portfolio-deno.deno.dev
                     </a>
                 </div>
